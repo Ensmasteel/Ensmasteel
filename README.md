@@ -6,7 +6,8 @@ You may have already seen us on previous editions, and we hardly work every year
 
 - 📫 If you want to send us a little mail, you can do it at ensmasteel.clubrobotique@gmail.com!
 
-Don't forget to have a look at our site where you'll can find every documentation about the robot and the code !  
+Don't forget to have a look at our site https://ensmasteel.github.io/Robot/ where you'll can find every documentation about the robot and the code ! 
+
 
 <!---
 Ensmasteel/Ensmasteel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
