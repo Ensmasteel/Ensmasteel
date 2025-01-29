@@ -1,17 +1,21 @@
-- 👋 Hi, We are Ensmasteel! Ensmasteel is the robotic association of ISAE-ENSMA, a french engineering school.
-- 👀 We compete every year at the Franch robotic cup in order to demonstrate our work and competences.
-- 🌱 We mainly use C++ programming for our robot, which we designed on CATIA V5 to ensure perfect build and integration.
+### 👋 Hi, We Are Ensmasteel!  
+We are the robotics association of **ISAE-ENSMA**, a prestigious French engineering school. Every year, we design, build, and program robots to compete in the **French Robotics Cup**, showcasing our technical skills and innovative spirit.
 
-You may have already seen us on previous editions, and we work every year to make our robot even better ! Have a look to our Robot repository to see what's new on our Robot, our technologies and global work.
+### 🚀 What We Do  
+- **Design & Build**: Our robots are meticulously designed using **CATIA V5** to ensure precision and seamless integration.  
+- **Code & Compete**: We primarily use **C++** to program our robots, enabling them to perform complex tasks during competitions.  
+- **Innovate & Improve**: Each year, we push the boundaries of our robotics expertise to create even better, smarter, and more efficient robots.  
 
-- 📫 If you want to send us a little mail, you can do it at ensmasteel.clubrobotique@gmail.com!
+### 🤖 Our Robot Repository  
+Curious about our latest projects? Check out our [repositories](https://github.com/Ensmasteel?tab=repositories&type=source) to explore the cutting-edge technologies and innovations we’re working on.  
 
-We communicate about the project progress on [Twitter](https://twitter.com/Ensmasteel) and [LinkedIn](https://www.linkedin.com/company/association-ensmasteel) !
+### 📜 Learn More About Us  
+Want to dive deeper into our journey? Visit [our website](https://esp.ensma.fr/ensmasteel/) to see how our previous robots were designed and how they performed in past competitions.  
 
-Don't forget to have a look at [our site](https://ensmasteel.github.io/Presentation-Page-React/) where we describe how our previous robots worked ! 
+### 📫 Get in Touch  
+Have questions or want to collaborate? Feel free to reach out to us at **ensmasteel.clubrobotique@gmail.com**. We’d love to hear from you!  
 
-
-<!---
-Ensmasteel/Ensmasteel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌐 Follow Us  
+Stay updated on our progress and latest developments by following us on:  
+- [LinkedIn](https://www.linkedin.com/company/association-ensmasteel)  
+- [Twitter](https://twitter.com/Ensmasteel)  
